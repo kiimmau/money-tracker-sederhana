@@ -4,7 +4,7 @@ Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran pribadi. Dilengk
 
 Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian. Dilengkapi dengan ringkasan saldo, rekap per bulan, serta fitur ekspor ke Microsoft Excel (.xlsx). Data tersimpan aman di localStorage browser sehingga tidak hilang meskipun halaman di-refresh.
 
-![Screenshot Aplikasi](https://via.placeholder.com/800x400?text=Tangkapan+Layar+Aplikasi+Keuangan)
+![Screenshot Aplikasi] (file:///C:/Users/LENOVO/.vscode/keuangan.html)
 *(Ganti link di atas dengan screenshot hasil tangkapan layar aplikasimu)*
 
 ---
