@@ -4,7 +4,7 @@ Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran pribadi. Dilengk
 
 Aplikasi web sederhana untuk mencatat pemasukan dan pengeluaran harian. Dilengkapi dengan ringkasan saldo, rekap per bulan, serta fitur ekspor ke Microsoft Excel (.xlsx). Data tersimpan aman di localStorage browser sehingga tidak hilang meskipun halaman di-refresh.
 
-![Screenshot Aplikasi] (<img width="1280" height="720" alt="Screenshot 2026-07-05 205050" src="https://github.com/user-attachments/assets/ab74b495-7fe4-4995-8610-e0bbdca84a49" />)
+[Screenshot Aplikasi] <img width="1280" height="720" alt="Screenshot 2026-07-05 205050" src="https://github.com/user-attachments/assets/ab74b495-7fe4-4995-8610-e0bbdca84a49" />
 ---
 
 ## ✨ Fitur Unggulan
